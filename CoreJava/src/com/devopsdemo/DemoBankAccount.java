@@ -22,7 +22,7 @@ private double balance;
 	}
 	
 	/*
-	public static void main(String[] args) {
+	public static void main(String[] args)  {
 		
 		DemoBankAccount db = new DemoBankAccount(100.00);
 		double approvedDebit = db.debit(97);
